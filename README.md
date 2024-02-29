@@ -14,7 +14,7 @@ Then create the class name directories in the same directory as the code, then r
 ---
 ## How to use
 
-![UI picture](untitled.png)
+![UI picture](Untitled.png)
 
 Press the `load` button to choose a directory with .mp4 videos, then use the `Play/Pause` to play or pause the video.
 
